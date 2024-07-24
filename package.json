@@ -3,7 +3,7 @@
   "displayName": "Dark+ Modern",
   "description": "Like Dark Modern, but better.",
   "publisher": "gantoreno",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gantoreno/dark-plus-modern.git"
+    "url": "https://github.com/gantoreno/vscode-dark-plus-modern.git"
   },
   "bugs": {
-    "url": "https://github.com/gantoreno/dark-plus-modern/issues",
+    "url": "https://github.com/gantoreno/vscode-dark-plus-modern/issues",
     "email": "gantoreno@gmail.com"
   },
   "keywords": [
