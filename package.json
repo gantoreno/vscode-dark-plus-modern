@@ -31,5 +31,8 @@
         "path": "./themes/dark-plus-modern.json"
       }
     ]
+  },
+  "scripts": {
+    "generate": "node lib/generate-theme.js"
   }
 }
